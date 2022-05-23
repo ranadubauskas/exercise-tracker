@@ -14,9 +14,9 @@ View Back-end Code At: https://github.com/ranadubauskas/exercise-tracker-backend
 
 ## Built With
 
-- ReactJS
 - MongoDB
 - ExpressJS
+- ReactJS
 - NodeJS
 - HTML
 - CSS
