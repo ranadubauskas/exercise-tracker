@@ -14,14 +14,14 @@ View Back-end Code At: https://github.com/ranadubauskas/exercise-tracker-backend
 
 ## Built With
 
--ReactJS
--MongoDB
--ExpressJS
--NodeJS
--HTML
--CSS
--JavaScript
--Backend deployed to Heroku
+- ReactJS
+- MongoDB
+- ExpressJS
+- NodeJS
+- HTML
+- CSS
+- JavaScript
+- Backend deployed to Heroku
 
 ## Author
 
