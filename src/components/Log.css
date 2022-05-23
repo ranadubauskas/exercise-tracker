@@ -1,0 +1,51 @@
+.whole-form{
+    align-items: center; 
+    font-family: Garamond, serif;
+    text-align: center;
+}
+input{
+    width: 10%;
+}
+
+.btn {
+    border: none;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    background-color: darkcyan;
+    padding: 17px 60px;
+    margin: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.20);
+    }
+    
+    .btn span {
+    position: relative; 
+    z-index: 1;
+    }
+    
+    .btn:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 490%;
+    width: 140%;
+    background: lightblue;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
+    transform: translateX(-98%) translateY(-25%) rotate(45deg);
+    }
+    
+    .btn:hover:after {
+    -webkit-transform: translateX(-9%) translateY(-25%) rotate(45deg);
+    transform: translateX(-9%) translateY(-25%) rotate(45deg);
+    }

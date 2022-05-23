@@ -1,0 +1,22 @@
+
+.top{
+    font-size: 30px;
+    font-weight: bold;
+}
+thead{
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+}
+.all{
+    align-items: center; 
+    font-family: Garamond, serif;
+    text-align: center;
+}
+.table{
+    align-items: center;
+    text-align: center;
+    margin-left: 37%
+}
+

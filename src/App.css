@@ -1,0 +1,28 @@
+body{
+  font-family: Garamond, serif;
+  background-color: #d3d3d3;
+  background-image: linear-gradient(315deg, #d3d3d3 0%,lightblue 74%);
+}
+.navbar{
+  display: flex;
+  width: 100%;
+  height: 80px;
+  justify-content: left;
+  align-items: center;
+  background-color: grey;
+  text-align: center;
+}
+.link{
+  margin-right: 15%;
+  text-decoration: none; 
+  color: white;
+  font-size: 20px;
+}
+a:hover {
+  color: lightblue;
+}
+.nav-header{
+  margin-right: 15%;
+  color: white;
+  margin-left: 8%;
+}
