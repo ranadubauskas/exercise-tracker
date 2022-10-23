@@ -1,6 +1,6 @@
 # Exercise Tracker
 
-https://visionary-cucurucho-5b5336.netlify.app/
+https://exercise-tracker08.netlify.app
 
 View Back-end Code At: https://github.com/ranadubauskas/exercise-tracker-backend
 
